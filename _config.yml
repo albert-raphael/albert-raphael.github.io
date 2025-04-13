@@ -1,0 +1,15 @@
+title: Albert Raphael # your name (or website title) here
+logo: "/images/biometric%20pass.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> if you don't need line break)
+ <br>
+ A passionate and dedicated economist with expertise in data analysis and interpretation. I excel at communicating complex information clearly and effectively.
+ <br>
+ 
+ <a href="https://www.linkedin.com/in/albert-raphael-assimagbe-571b27155/">View My LinkedIn Profile</a> 
+
+ <br><br>
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
