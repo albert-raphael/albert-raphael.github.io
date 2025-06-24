@@ -2,6 +2,19 @@
 
 ---
 
+[Flu Vaccination Predictor Project](https://github.com/albert-raphael/alpha-group/tree/main)
+
+This project aims to predict flu vaccination uptake (both H1N1 and seasonal flu) using data from the CDC 2009 H1N1 Flu Survey. By leveraging machine learning models, we explore key factors that influence whether individuals decide to get vaccinated — offering insights to shape public health strategy.
+
+Developed as part of the ReDI-School of Digital Integration Course - Data Circle Fall 2025 in Hamburg by ALPHA GROUP:
+
+Assimagbe Albert Raphael
+Saad Ali
+
+<img src="images/H1N1&Seasonaltop correlations recommendations.png"/>
+
+---
+
 [Sales Trends and Patterns: An Exploratory Data Analysis](https://github.com/albert-raphael/albert-raphael.github.io/blob/master/pdf/Sales%20Trends%20and%20Patterns%20An%20Exploratory%20Data_zerotopandas-course-project.pdf)
 
 Analyzed sales data 2015-2016  using Python and Pandas to gain insights into the trends and patterns of sales over time. The sales dataset contains information on transactions, including the products sold, their cost and revenue, and the volume of products sold. It also includes customer age, gender, and location, offering insights into purchasing behavior across different demographic groups.
