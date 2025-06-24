@@ -6,10 +6,7 @@
 
 This project aims to predict flu vaccination uptake (both H1N1 and seasonal flu) using data from the CDC 2009 H1N1 Flu Survey. By leveraging machine learning models, we explore key factors that influence whether individuals decide to get vaccinated — offering insights to shape public health strategy.
 
-Developed as part of the ReDI-School of Digital Integration Course - Data Circle Fall 2025 in Hamburg by ALPHA GROUP:
-
-Assimagbe Albert Raphael
-Saad Ali
+Developed as part of the ReDI-School of Digital Integration Course - Data Circle Fall 2025 in Hamburg by ALPHA GROUP: Assimagbe Albert Raphael & Saad Ali
 
 <img src="images/H1N1&Seasonaltop correlations recommendations.png"/>
 
