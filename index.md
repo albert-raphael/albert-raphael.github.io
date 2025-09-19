@@ -2,6 +2,14 @@
 
 ---
 
+[Water Pump Functionality Prediction Project (On Going Project)](https://github.com/albert-raphael/water-pump/tree/main)
+
+In this project, I will develop machine learning models to predict the functionality status of water pumps across Tanzania based on a variety of features including location, water quality, management structure, and technical specifications. This project addresses a critical infrastructure challenge: identifying which water pumps are functional, which need repairs, and which are non-functional to improve maintenance operations and ensure communities have access to clean water.
+
+<img src="images/hand_pump_diagram.png"/>
+
+---
+
 [Flu Vaccination Predictor Project](https://github.com/albert-raphael/alpha-group/tree/main)
 
 This project aims to predict flu vaccination uptake (both H1N1 and seasonal flu) using data from the CDC 2009 H1N1 Flu Survey. By leveraging machine learning models, we explore key factors that influence whether individuals decide to get vaccinated — offering insights to shape public health strategy.
