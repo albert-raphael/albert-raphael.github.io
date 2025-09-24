@@ -1,0 +1,16 @@
+title: Albert Raphael Assimagbe # your name (or website title) here
+logo: "/images/profession  photo Raphael.jpeg?raw=true" # your photo (or logo) here 
+description: > # your text below (remove <br> if you don't need line break)
+ <br>
+ Data analyst and economist focused on using Python, SQL, and econometrics tools to solve sustainability challenges and drive strategic decisions. 
+ I excel at communicating complex information clearly and effectively.
+ <br>
+ 
+ <a href="https://www.linkedin.com/in/assimagbe/">View My LinkedIn Profile</a> 
+
+ <br><br>
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
