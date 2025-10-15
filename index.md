@@ -2,11 +2,12 @@
 
 ---
 
-[Water Pump Functionality Prediction Project (On Going Project)](https://github.com/albert-raphael/water-pump/tree/main)
+[Water Pump Functionality Prediction Project ](https://github.com/albert-raphael/water-pump/tree/main)
 
-In this project, I will develop machine learning models to predict the functionality status of water pumps across Tanzania based on a variety of features including location, water quality, management structure, and technical specifications. This project addresses a critical infrastructure challenge: identifying which water pumps are functional, which need repairs, and which are non-functional to improve maintenance operations and ensure communities have access to clean water.
+This project uses machine learning to predict the operational status of water pumps in rural communities. Based on demographic, geographic, and technical features, the model classifies pumps into three categories: Functional, Needs repair, and Non-functional
+The aim is to support maintenance teams, local planners, and NGOs by providing actionable insights and geospatial visualizations, enabling better allocation of resources and faster response times.
 
-<img src="images/hand_pump_diagram.png"/>
+<img src="images/hand_pump_diagram.png"/> <img src="Image/predicted Target Distribution (Test Set).png"/> 
 
 ---
 
