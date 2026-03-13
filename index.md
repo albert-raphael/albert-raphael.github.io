@@ -2,6 +2,14 @@
 
 ---
 
+[DengAI — Predicting Disease Spread](https://github.com/albert-raphael/predicting-disease-spread)
+
+Dengue fever is a mosquito-borne viral infection that poses a significant public health challenge in tropical and subtropical regions. The transmission of the dengue virus is heavily influenced by environmental factors such as temperature, precipitation, and vegetation. By analyzing these factors, we can build predictive models to forecast future outbreaks, helping public health officials allocate resources more effectively.
+
+<img src="images/flickr-mosq.jpg"/> 
+
+---
+
 [Water Pump Functionality Prediction Project ](https://github.com/albert-raphael/water-pump/tree/main)
 
 This project uses machine learning to predict the operational status of water pumps in rural communities. Based on demographic, geographic, and technical features, the model classifies pumps into three categories: Functional, Needs repair, and Non-functional
